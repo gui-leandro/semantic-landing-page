@@ -1,0 +1,38 @@
+.pacifico-font {
+  font-family: 'Pacifico', cursive;
+}
+
+.title-red-color {
+  color: darkred;
+}
+
+.carrousel-image {
+  object-fit: cover;
+  height: 400px;
+}
+
+.carrousel-first-image {
+  object-position: 0 80%;
+}
+
+.special-color-btn {
+  background-color: darkred;
+  color: #fff;
+
+  transition: all .2s;
+}
+
+.special-color-btn:hover {
+  background-color: #fff;
+  color: darkred;
+}
+
+.card-style {
+  width: 18rem;
+  border-color: darkred;
+}
+
+.image-card-position {
+  object-fit: cover;
+  height: 200px;
+}
